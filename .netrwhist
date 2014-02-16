@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/damon/Course/openSoftware/Largeandopen_proj/ParseOpenData/build'
+let g:netrw_dirhist_2='/home/damon/Dropbox/backup/vim/vim'
+let g:netrw_dirhist_3='/home/damon/Dropbox/backup/vim/vim/.vim'
+let g:netrw_dirhist_4='/etc/cron.d'
+let g:netrw_dirhist_5='/home/damon/ETop/file/test_source_code/test'
+let g:netrw_dirhist_6='/home/damon/.vim'
+let g:netrw_dirhist_7='/home/damon/ETop/gitServer/api_pattern/ProofDistance/src/api_pattern'
